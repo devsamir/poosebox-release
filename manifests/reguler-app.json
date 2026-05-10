@@ -1,11 +1,11 @@
 {
-  "version": "2.3.4",
+  "pub_date": "2026-05-10T03:09:20Z",
+  "version": "2.3.5",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK08wUGJkVUxCdFRCUitiUE5uZWhld1R0aEJjc0VrY1I2YlhPVk5lRm9jdlNDdlk4WTVqeW45L0ltRjdrUTdBc3FlQytqY2V4bVlHVGdlL3hocjNHaEtBQzFJMk1QUWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzMwODI2CWZpbGU6cG9vc2Vib3hfMi4zLjRfeDY0LXNldHVwLmV4ZQpRQ0k2T0NPYVROdnREb0JiQXpJRXJrTXlHSVZ5c1hVcmhPZWtwbTVySTNBdWhTQXhvUTl3ZCszYjNheEk0NHg2dlBSL3EzWEVzTDJUWTdPcExzMzZEUT09Cg==",
-      "url": "https://github.com/devsamir/poosebox-release/releases/download/reguler-app-v2.3.4/poosebox_2.3.4_x64-setup.exe"
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/reguler-app-v2.3.5/poosebox_2.3.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK08wUGJkVUxCdFRBcDBpdTdnNXNFV21QUzA2K2R2blNCN2hVNGg2ei9qSytCZkc3eUxNMGI3NGVxR01qZHVFV0JXRzNkQlBwQ1VUOFRMSGNOd01ycTV0VVVGTExzNmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzgyNTU2CWZpbGU6cG9vc2Vib3hfMi4zLjVfeDY0LXNldHVwLmV4ZQpyS0xpZUtnendvUkg0a3ZzdGxkd295K05QbFN0M3YrZGtTVzhrR0c3Z2lES1d2OWplSkEzSXZaL3BwREhlOVkxQmIzdDU5THVOcyt5UTU5Mm5ObFJBQT09Cg=="
     }
   },
-  "pub_date": "2026-05-09T12:47:09Z",
-  "notes": "Poosebox reguler-app v2.3.4"
+  "notes": "Poosebox reguler-app v2.3.5"
 }
