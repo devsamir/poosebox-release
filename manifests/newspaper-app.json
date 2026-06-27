@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-06-27T14:37:25Z",
+  "notes": "Poosebox newspaper-app v1.4.3",
+  "version": "1.4.3",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/devsamir/poosebox-release/releases/download/newspaper-app-v1.4.0/poosebox_1.4.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK08wUGJkVUxCdFJXVzRuMi9SMlRZWXdZMjdjZkxUNkpmeDF0ekJwUmR5K0dCOTVaYXZNRDZoVG5mV25qSlFjK3YydHJFd2UwU1ZPS085c3NtaTQ2dDFVM08wdm9PaXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzU5NTk0CWZpbGU6cG9vc2Vib3hfMS40LjBfeDY0LXNldHVwLmV4ZQp3b3NKbnIrQVd1dWFGNXRTTGM1RXpxZVBiNG0xUDdsQVYzaXBJRm5mblBLSUk2NzV0ZEJ5Z1RLWHRzMTcxU3k1Y241aEtCdGRJc0hFZGhxVDh2MFZBZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK08wUGJkVUxCdFE4Rlc4UWlXbmNtb0p6c29GRDZqam5ZdUFUMW5YRHFMREhsMmdUVklrZElZdjZrcHNMcForRjdWMFRBZXJmZ1ZSUlZOOHRnQUI4VXNNNzRkUjlpUUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcxMDQxCWZpbGU6cG9vc2Vib3hfMS40LjNfeDY0LXNldHVwLmV4ZQpVdlZ4OXA4N1M2aS8wZVRuUFFZVzVXSUJyQXEzWU5GVksraEYvZ2FMRDVkSjRqNVFCUFIxQitZMVlaR1oyYlVhVWljOWp4L3ZmamxOSU5OTm54NUFCdz09Cg==",
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/newspaper-app-v1.4.3/poosebox_1.4.3_x64-setup.exe"
     }
-  },
-  "notes": "Poosebox newspaper-app v1.4.0",
-  "version": "1.4.0",
-  "pub_date": "2026-06-18T05:13:17Z"
+  }
 }
