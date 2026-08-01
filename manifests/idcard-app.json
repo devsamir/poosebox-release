@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-07-25T15:55:18Z",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "notes": "Poosebox idcard-app v1.0.6",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/devsamir/poosebox-release/releases/download/idcard-app-v1.0.5/poosebox_1.0.5_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK08wUGJkVUxCdFZQVTNDTFVGT29jMm5URHlld2IyWUZFZkFLMTV4ZXVNUEhCWGk4ek5SbjdHYjdFYXBidWxnVnlHemdSVzg0T1FhRUFLSERmdWtTbExrR3MvanRCYWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTk0OTE1CWZpbGU6cG9vc2Vib3hfMS4wLjVfeDY0LXNldHVwLmV4ZQpFRzZqNU1LTnlwZFNnWmVEQUR0RmNkZ0EzZUdGa3lQL2lsSS90TGtOVkZuNWpaUGUvUGZ6TUtBa2ZJWXU0a2NqRGJjTmdQQUR2eHFOSW8rbEoxdDNCdz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK08wUGJkVUxCdFF6ZUpxMU02QlI1bEl1NndqYm5nSUQ3elc3OWtUV05TdmpXdjZHWjZDZTdQY1F3alhyY3RJei9kNUgwcFFMWFFDaFJ2empQSjNUNWxOdC9rT0tZRHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTU4MTY2CWZpbGU6cG9vc2Vib3hfMS4wLjZfeDY0LXNldHVwLmV4ZQpRN21nSXBnT2k0dnZKTVBWeWo4YXJoSERsc3NOdkZVVHErd21ZUGZ6Z1FMVktzRDlnYTQ0K3BINEgrUitnOGZDaDJ3NjkySTIrc2l4eWJYV2I5QTRBQT09Cg==",
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/idcard-app-v1.0.6/poosebox_1.0.6_x64-setup.exe"
     }
   },
-  "notes": "Poosebox idcard-app v1.0.5"
+  "pub_date": "2026-08-01T04:22:59Z"
 }
