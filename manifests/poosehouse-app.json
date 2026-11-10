@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Poosehouse v1.0.0",
+  "pub_date": "2026-11-10T10:12:46Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK08wUGJkVUxCdGY5YUJuam1pbGFjVFRuVFF5anU5blE1Q1F2c0Q1Ti9EVERSYmRXUy9QTU9IZ1drN05reXVCMU42K2w3Zko0bksxeFdxZHp6K0VaRUlxWFRQcyttc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzA1NTYyCWZpbGU6UG9vc2Vob3VzZV8xLjAuMF94NjQtc2V0dXAuZXhlCnUvR3V1NjBNd0NxUTdsN0xKTkZJREp6N2d1WVdaTmVNMktXczlkMWhJT1hRcVN2OVZBZllNUTlnSktTVFlrRVA2U1NFbHZGd0JtQVJzbS9CZVhsNkR3PT0K",
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-app-v1.0.0/Poosehouse_1.0.0_x64-setup.exe"
+    }
+  }
+}
