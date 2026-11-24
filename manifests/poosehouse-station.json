@@ -1,19 +1,19 @@
 {
-  "pub_date": "2026-11-24T05:00:31.2943440Z",
+  "version": "0.1.5",
+  "notes": "Poosehouse Station v0.1.5",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.4/poosehouse-station_0.1.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRXBEeHdSTFg2TCtZVm5zNjZqbktvNXdEUVFEZE96dnFrWkQwSzVKSExRWnNjdVMxeHpUVThLQzUrR3k2WlFGd1ZkUWlCOU9PUTB4NDh4WVAyb1MyL2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDk2NDE4CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS40X3g2NC1zZXR1cC5leGUKcGdZeE9FNWgrb2pLdmFPc1ZnUXVKbWxpNERRYXFnTWNlTVFRaFpKRmdGZ3g5TFB5Q212elVMaTZlcUFKY0I5ZmNIMjUzY21sTmVwWUNKOEpKeU1tRHc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRWtZTXJFUExMK1RLanl3MXZlMkg0cTlzbXoyejgxZDhMeExKTG4yWHhva2RxcitaMlZkV1BlRG5wSVBZQk9YaWJ1NEwrOVBYQ0V5UlZNTDRpdFd1andVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA3NDY1CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS41X3g2NC1zZXR1cC5leGUKMDN0NjR4V0xCU3NZRW9XQ1hRQWxiVEgxSmcxc0hUNG5sT01DQlNLRllWQWhxYXJhMW42eGFyTnAvWGh4WUFHNFUvVXZtZDJ6dEhNeURnZEFxUVRCQnc9PQo=",
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.5/poosehouse-station_0.1.5_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.4/poosehouse-station_0.1.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRXBEeHdSTFg2TCtZVm5zNjZqbktvNXdEUVFEZE96dnFrWkQwSzVKSExRWnNjdVMxeHpUVThLQzUrR3k2WlFGd1ZkUWlCOU9PUTB4NDh4WVAyb1MyL2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDk2NDE4CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS40X3g2NC1zZXR1cC5leGUKcGdZeE9FNWgrb2pLdmFPc1ZnUXVKbWxpNERRYXFnTWNlTVFRaFpKRmdGZ3g5TFB5Q212elVMaTZlcUFKY0I5ZmNIMjUzY21sTmVwWUNKOEpKeU1tRHc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRWtZTXJFUExMK1RLanl3MXZlMkg0cTlzbXoyejgxZDhMeExKTG4yWHhva2RxcitaMlZkV1BlRG5wSVBZQk9YaWJ1NEwrOVBYQ0V5UlZNTDRpdFd1andVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA3NDY1CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS41X3g2NC1zZXR1cC5leGUKMDN0NjR4V0xCU3NZRW9XQ1hRQWxiVEgxSmcxc0hUNG5sT01DQlNLRllWQWhxYXJhMW42eGFyTnAvWGh4WUFHNFUvVXZtZDJ6dEhNeURnZEFxUVRCQnc9PQo=",
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.5/poosehouse-station_0.1.5_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.4/poosehouse-station_0.1.4_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRXF1OE9vZUhwTzdVTk1nL1BzRzVOZjVWS0FWUXUvSmJxQzhjWkxTMk5SYTJnTUQ2WDloRHh3aDFaTUFrUUlxd0dJMjRSTXVUbU84TDM4NXRzUE92SFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDk2NDE4CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS40X3g2NF9lbi1VUy5tc2kKRTdlKzlNRmJOWnNkbWRJTERLRTBqRkh0L2FZa3Vmbll1SmpVWDU2Mkl1T0xHdkJWalVPQ0pOSDBpSmRTaTFxZWV4TU5ybUhxOEF0djNlQk5uSFlBQkE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRXNVNlkwaDBvbmluVFIzTnJadmtmUmpjTmJyQjdmNTBCcE96T3Q4OGM4dmpWNlhVbWdFOGNQdUVBM2NnL3dFK2NkQ2F4UVJBSHhiNFE5YUMyZmxiTFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA3NDY1CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS41X3g2NF9lbi1VUy5tc2kKcnVGTTkrUjRTWHM2MW9NanZqYnJ2VlRkMDZSU2R6N2RtNlVIUWNpQjcyVUFEWkM1RXJXRThJQVMrMEtla003QStQbHlwaEJBQ0g2SDBydGNLK1pNQ0E9PQo=",
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.5/poosehouse-station_0.1.5_x64_en-US.msi"
     }
   },
-  "notes": "Poosehouse Station v0.1.4",
-  "version": "0.1.4"
+  "pub_date": "2026-11-24T08:04:37.7018686Z"
 }
