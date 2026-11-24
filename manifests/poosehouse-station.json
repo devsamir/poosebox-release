@@ -1,0 +1,19 @@
+{
+  "pub_date": "2026-11-24T05:00:31.2943440Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.4/poosehouse-station_0.1.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRXBEeHdSTFg2TCtZVm5zNjZqbktvNXdEUVFEZE96dnFrWkQwSzVKSExRWnNjdVMxeHpUVThLQzUrR3k2WlFGd1ZkUWlCOU9PUTB4NDh4WVAyb1MyL2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDk2NDE4CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS40X3g2NC1zZXR1cC5leGUKcGdZeE9FNWgrb2pLdmFPc1ZnUXVKbWxpNERRYXFnTWNlTVFRaFpKRmdGZ3g5TFB5Q212elVMaTZlcUFKY0I5ZmNIMjUzY21sTmVwWUNKOEpKeU1tRHc9PQo="
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.4/poosehouse-station_0.1.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRXBEeHdSTFg2TCtZVm5zNjZqbktvNXdEUVFEZE96dnFrWkQwSzVKSExRWnNjdVMxeHpUVThLQzUrR3k2WlFGd1ZkUWlCOU9PUTB4NDh4WVAyb1MyL2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDk2NDE4CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS40X3g2NC1zZXR1cC5leGUKcGdZeE9FNWgrb2pLdmFPc1ZnUXVKbWxpNERRYXFnTWNlTVFRaFpKRmdGZ3g5TFB5Q212elVMaTZlcUFKY0I5ZmNIMjUzY21sTmVwWUNKOEpKeU1tRHc9PQo="
+    },
+    "windows-x86_64-msi": {
+      "url": "https://github.com/devsamir/poosebox-release/releases/download/poosehouse-station-v0.1.4/poosehouse-station_0.1.4_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQlJka3hUamJDRXF1OE9vZUhwTzdVTk1nL1BzRzVOZjVWS0FWUXUvSmJxQzhjWkxTMk5SYTJnTUQ2WDloRHh3aDFaTUFrUUlxd0dJMjRSTXVUbU84TDM4NXRzUE92SFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDk2NDE4CWZpbGU6cG9vc2Vob3VzZS1zdGF0aW9uXzAuMS40X3g2NF9lbi1VUy5tc2kKRTdlKzlNRmJOWnNkbWRJTERLRTBqRkh0L2FZa3Vmbll1SmpVWDU2Mkl1T0xHdkJWalVPQ0pOSDBpSmRTaTFxZWV4TU5ybUhxOEF0djNlQk5uSFlBQkE9PQo="
+    }
+  },
+  "notes": "Poosehouse Station v0.1.4",
+  "version": "0.1.4"
+}
